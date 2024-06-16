@@ -13,3 +13,5 @@
 - Order property of flexbox which allows us to modify the order of flex-items
 - text-shadow 
 - Increase font-size for desktop versions of a site and increasing columns of desktop version.
+- Used max-width to stop certain elements from stretching too much
+- min-height to make a iamge stay a certain height.
